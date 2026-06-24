@@ -8,9 +8,6 @@
 [![Made with RDKit](https://img.shields.io/badge/made%20with-RDKit-1f6feb.svg)](https://www.rdkit.org/)
 [![Conformal Prediction](https://img.shields.io/badge/uncertainty-conformal%20prediction-009E73.svg)](#method)
 
-<p align="center">
-  <img src="Graphical_Abstract.png" alt="Graphical abstract" width="640">
-</p>
 
 ---
 
