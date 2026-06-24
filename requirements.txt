@@ -1,0 +1,14 @@
+# Core cheminformatics & tight-binding
+rdkit>=2023.3
+tblite>=0.3.0
+
+# Models
+xgboost>=2.0
+lightgbm>=4.0
+scikit-learn>=1.3
+
+# Scientific stack
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
