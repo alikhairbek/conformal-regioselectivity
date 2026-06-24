@@ -177,7 +177,8 @@ A manuscript describing this method is in preparation. Until it appears, please 
   author  = {Khairbek, Ali A.},
   title   = {Physics-Informed Conformal Prediction of Aromatic C--H Site-Selectivity},
   year    = {2026},
-  url      = {https://github.com/USERNAME/conformal-regioselectivity},
+  url      = {https://github.com/alikhairbek/conformal-regioselectivity},
+  url      = {},
   note    = {Guaranteed-coverage prediction sets for electrophilic aromatic substitution}
 }
 ```
